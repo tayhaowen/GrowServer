@@ -18,17 +18,14 @@
     },
     "dev": {
       "cache": false,
-      "persistent": true,
-      "interactive": true
+      "persistent": true
     },
     "clean": {
       "cache": false
     },
     "setup": {
       "dependsOn": ["^setup"],
-      "cache": false,
-      "persistent": true,
-      "interactive": true
+      "cache": false
     }
   }
 }
